@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+
+# use this to comment
+# *.txt    ( this blocks all tx documents
